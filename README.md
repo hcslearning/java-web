@@ -16,5 +16,7 @@ https://jakarta.ee/xml/ns/jakartaee/
 
 https://maven.apache.org/plugins/maven-war-plugin/usage.html
 
+https://blog.payara.fish/getting-started-with-jakarta-ee-9-hello-world
+
 
 
