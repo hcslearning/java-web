@@ -1,5 +1,8 @@
 # Java Web
 
+# JSTL
+https://stackoverflow.com/questions/4928271/how-to-install-jstl-the-absolute-uri-http-java-sun-com-jstl-core-cannot-be-r
+
 ## Enlaces 
 
 https://en.wikipedia.org/wiki/Jakarta_EE
